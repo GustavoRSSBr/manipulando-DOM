@@ -1,3 +1,3 @@
 Botão de Modo Escuro
 
-adicionei um modo escuro ao meu site.
+adicionei o botão de modo escuro ao meu site.
